@@ -35,7 +35,7 @@
         
       <div class="form-group">
         <label for = "menu">Ảnh sản phẩm</label>
-        <input type = "title" name = "file"></input>
+        <input type = "title" name = "file" class ="form-control">
       </div>
 
       <div class="form-group">
